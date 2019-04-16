@@ -1,0 +1,6 @@
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\Aula86\Aula86\obj\Debug\netcoreapp2.1\MyWebApp.AssemblyInfo.cs
